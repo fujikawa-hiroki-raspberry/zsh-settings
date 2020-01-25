@@ -1,5 +1,4 @@
-alias zshsetting="vim ~/.zshrc"
-alias zshclear="rm ~/.zsh_history"
+alias zshedit="vim ~/.zshrc"
 alias source="source ~/.zshrc"
 
 # setopt
